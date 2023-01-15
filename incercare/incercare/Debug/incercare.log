@@ -4,5 +4,5 @@
   Locatie.cpp
   main.cpp
   Generating Code...
-C:\Users\exemp\source\repos\incercare\incercare\Locatie.cpp(174): warning C4715: 'Locatie::getNrMaximLocuri': not all control paths return a value
-  incercare.vcxproj -> C:\Users\exemp\source\repos\incercare\Debug\Proiect poo f.exe
+C:\Users\exemp\Documents\GitHub\POO-proiect\incercare\incercare\Locatie.cpp(174): warning C4715: 'Locatie::getNrMaximLocuri': not all control paths return a value
+  incercare.vcxproj -> C:\Users\exemp\Documents\GitHub\POO-proiect\incercare\Debug\Proiect poo f.exe
